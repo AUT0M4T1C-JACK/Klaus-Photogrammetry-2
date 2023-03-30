@@ -1,1 +1,2 @@
-# Klaus-Photogrammetry-2
+# Klaus-Photogrammetry
+Klaus Photogrammetry Project - GTXR
